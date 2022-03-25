@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6ca484e5.chunk.css",
+    "main.js": "./static/js/main.a5525460.chunk.js",
+    "main.js.map": "./static/js/main.a5525460.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.82e0b1f1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.82e0b1f1.js.map",
+    "static/js/2.6ee728bc.chunk.js": "./static/js/2.6ee728bc.chunk.js",
+    "static/js/2.6ee728bc.chunk.js.map": "./static/js/2.6ee728bc.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9ebdd175fdd98e75b23aab4912583c67.js": "./precache-manifest.9ebdd175fdd98e75b23aab4912583c67.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.6ca484e5.chunk.css.map": "./static/css/main.6ca484e5.chunk.css.map",
+    "static/js/2.6ee728bc.chunk.js.LICENSE.txt": "./static/js/2.6ee728bc.chunk.js.LICENSE.txt",
+    "static/media/bg.svg": "./static/media/bg.6eb21da7.svg",
+    "static/media/cloudy.47f1e6bd.svg": "./static/media/cloudy.47f1e6bd.svg",
+    "static/media/darkBg.svg": "./static/media/darkBg.2ae50b33.svg",
+    "static/media/github.5f81c3a6.svg": "./static/media/github.5f81c3a6.svg",
+    "static/media/haze.0f8ede74.svg": "./static/media/haze.0f8ede74.svg",
+    "static/media/heavy-rain.17e40bd5.svg": "./static/media/heavy-rain.17e40bd5.svg",
+    "static/media/high-icon.931f8d0e.svg": "./static/media/high-icon.931f8d0e.svg",
+    "static/media/humidity-icon.43a903ed.svg": "./static/media/humidity-icon.43a903ed.svg",
+    "static/media/location-icon.948b91fd.svg": "./static/media/location-icon.948b91fd.svg",
+    "static/media/low-icon.4cadc629.svg": "./static/media/low-icon.4cadc629.svg",
+    "static/media/partly-cloudy.c2e06f02.svg": "./static/media/partly-cloudy.c2e06f02.svg",
+    "static/media/pressure-icon.2284050a.svg": "./static/media/pressure-icon.2284050a.svg",
+    "static/media/rain.0138fd80.svg": "./static/media/rain.0138fd80.svg",
+    "static/media/search-icon.aff8f2a3.svg": "./static/media/search-icon.aff8f2a3.svg",
+    "static/media/sleet.4a7dd48b.svg": "./static/media/sleet.4a7dd48b.svg",
+    "static/media/snow.f6477891.svg": "./static/media/snow.f6477891.svg",
+    "static/media/sunny.3402daa5.svg": "./static/media/sunny.3402daa5.svg",
+    "static/media/thunderstorm.d0dcc540.svg": "./static/media/thunderstorm.d0dcc540.svg",
+    "static/media/wind-icon.7004d253.svg": "./static/media/wind-icon.7004d253.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82e0b1f1.js",
+    "static/js/2.6ee728bc.chunk.js",
+    "static/css/main.6ca484e5.chunk.css",
+    "static/js/main.a5525460.chunk.js"
+  ]
+}
